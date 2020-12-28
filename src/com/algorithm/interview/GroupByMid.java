@@ -11,7 +11,7 @@ public class GroupByMid {
         float[] array = {1.3F, 6.2F, 3, 9.1F, 4.8F, 7.4F, 5.6F, 9.2F, 2.3F};
         MOVE move = new MOVE(array,array.length);
         move.average();
-
+        System.out.println(11111);
     }
 }
 
